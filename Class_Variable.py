@@ -17,7 +17,7 @@ a.details()
 b.details()
 #direct access class varibale
 print(a.Stream)
-
+print("Class Variable")
 #how to create Empty class
 class Empty:
   pass
